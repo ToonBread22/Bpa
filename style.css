@@ -1,0 +1,66 @@
+header{
+    text-align: center;
+}
+body {
+    background-color:#2E7C36;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+#Hoursh {
+    font-size: 40px;
+    color:cornsilk;
+}
+#Hoursp {
+    font-size: 35px;
+    color: cornsilk;
+}
+#Hours {
+    background-image: url("HB3.JPEG") ;
+    background-size: cover;
+}
+#earthimg {
+    margin: auto;
+}
+#imgteq {
+    display: block;
+    width: 100%;
+} 
+#imgteq2 {
+    display: block;
+    width: 100%;
+} 
+#imgteq3 {
+    display: block;
+    width: 100%;
+} 
+#Teq {
+    background-color: #005477 ;
+}
+#tableteq {
+    color: burlywood;
+    font-size: 20px;
+}
+#Menuu {
+    background-image: url();
+}
+nav {
+    text-align: center;
+    padding: 10px;
+}
+nav a {
+    font-size: 30px;
+    padding: 10px;
+}
+#navhours a {
+    color: blanchedalmond;
+}
+#title1 {
+    font-size: 80px;
+    color: limegreen;
+}
+#Menutext {
+    color: white;
+}
