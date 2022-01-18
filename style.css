@@ -2,24 +2,31 @@ header{
     text-align: center;
 }
 body {
-    background-color:#2E7C36;
+    background-color: teal;
+
 }
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
+#Eheader {
+    font-size: 40px;
+    color:cornsilk; 
+}
 #Hoursh {
     font-size: 40px;
-    color:cornsilk;
+    color: beige;
 }
 #Hoursp {
     font-size: 35px;
-    color: cornsilk;
+    color: aqua;
 }
 #Hours {
     background-image: url("HB3.JPEG") ;
     background-size: cover;
+    background-color: teal;
+    
 }
 #earthimg {
     margin: auto;
@@ -59,8 +66,24 @@ nav a {
 }
 #title1 {
     font-size: 80px;
-    color: limegreen;
+    color: aqua;
 }
 #Menutext {
-    color: white;
+    color: burlywood;
+}
+#hometxt {
+    color: burlywood;
+    font-size: 25px;
+    text-align: center; 
+}
+#Menuu {
+    background-color: teal;
+
+}
+#title{
+    color: cornsilk;
+}
+#hometxt{
+    color: navajowhite;
+
 }
